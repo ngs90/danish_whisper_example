@@ -1,0 +1,6 @@
+.env
+.vscode
+recordings
+transcriptions
+archive
+__pycache__
